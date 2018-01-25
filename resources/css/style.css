@@ -21,9 +21,9 @@ p {
   color: Gray;
 }
 
-.download {
+.download a {
   font-size: 16px;
-  color: "Aquamarine";
+  color: Aquamarine;
 }
 
 .copyright {
